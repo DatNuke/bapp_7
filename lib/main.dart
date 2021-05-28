@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-//Das ist 1 fresches Comment vong 1 töftes Marcus
-// Hallo I bims 1 Code
-//das ist roshans test nachricht, zweiter versuch, neuer branch
-//MErge master into develop
+
 void main() {
   runApp(MyApp());
 }
